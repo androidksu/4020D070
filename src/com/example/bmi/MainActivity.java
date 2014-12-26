@@ -19,6 +19,7 @@ public class MainActivity extends Activity {
         EditText editText1 = (EditText) findViewById(R.id.editText1);
         EditText editText2 = (EditText) findViewById(R.id.editText2);
         Button button1 = ( Button ) findViewById(R.id.button1);
+        //123132131
     }
 
     public void Calc (View view ) {
